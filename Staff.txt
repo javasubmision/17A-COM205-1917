@@ -1,0 +1,5 @@
+jTextField2 null comboBoxChanged comboBoxChanged comboBoxChanged jTextField3
+jTextField2 null comboBoxChanged comboBoxChanged comboBoxChanged jTextField3
+jTextField2 null comboBoxChanged comboBoxChanged comboBoxChanged jTextField3
+jTextField2 null comboBoxChanged comboBoxChanged comboBoxChanged jTextField3
+jTextField2 null comboBoxChanged comboBoxChanged comboBoxChanged jTextField3
